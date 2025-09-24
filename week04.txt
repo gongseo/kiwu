@@ -1,8 +1,11 @@
 리눅스 명령어
 cp 원본파일 빛 복사본파일
+touch 파일 파일 파일
 
 깃 명령어
-git log  --graph --online
+git log --online --graph (git log --graph --online)
+git reset --hard Head~삭제할 커밋개수
+git push -f origin main
 
 기타
 .gitignore
